@@ -1,1 +1,1 @@
-* 2-everybody: Adds execute permission to all users (owner, group, and others) for the file 'hello' (chmod a+x).
+* 3-James-Bond: Sets permissions on 'hello' to: Owner/Group: none, Others: all (rwx). (chmod 007)
