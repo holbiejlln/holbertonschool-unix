@@ -1,1 +1,1 @@
-* 1-multiple_permissions: Adds execute permission to owner and group, and read permission to others for the file 'hello'.
+* 2-everybody: Adds execute permission to all users (owner, group, and others) for the file 'hello' (chmod a+x).
