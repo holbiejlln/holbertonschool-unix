@@ -1,1 +1,1 @@
-* 0-execute: Adds execute permission to the owner of the file 'hello' (chmod u+x hello).
+* 1-multiple_permissions: Adds execute permission to owner and group, and read permission to others for the file 'hello'.
