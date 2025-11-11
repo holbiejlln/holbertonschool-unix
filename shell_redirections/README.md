@@ -1,1 +1,1 @@
-* 1-lastlines: Displays the last 10 lines of the /etc/passwd file (tail).
+* 2-firstlines: Displays the first 10 lines of the /etc/passwd file (head).
