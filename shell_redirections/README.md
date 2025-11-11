@@ -1,1 +1,1 @@
-* 2-firstlines: Displays the first 10 lines of the /etc/passwd file (head).
+* 3-third_line: Displays the third line of the file 'iacta' without using sed (head/tail pipe).
