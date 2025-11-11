@@ -1,1 +1,1 @@
-* 2-listmorefiles: Displays all contents (including hidden files) of the current directory in long format (ls -la).
+* 3-back: Changes the working directory to the previous one (cd -).
