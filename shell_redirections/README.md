@@ -1,1 +1,1 @@
-* 3-third_line: Displays the third line of the file 'iacta' without using sed (head/tail pipe).
+* 4-cwd_state: Writes the result of the 'ls -la'command into the file 'ls_cwd_content',overwriting it if it exists.
